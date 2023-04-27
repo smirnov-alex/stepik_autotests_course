@@ -1,0 +1,12 @@
+'236895',
+'236896',
+'236897',
+'236898',
+'236899',
+'236903',
+'236904',
+'236905',
+
+<textarea spellcheck="false" required="" placeholder="Напишите ваш ответ здесь..." autocorrect="off" autocapitalize="none" id="ember91" class="ember-text-area ember-view textarea string-quiz__textarea" style="height: 80px;"></textarea>
+
+<p class="smart-hints__hint">Correct!</p>
